@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://bighitgames.site/sitemap.xml
